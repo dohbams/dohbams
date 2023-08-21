@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dohbams
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in data science, spatial data science and data engineering
 - 🌱 I’m currently learning data science and data engineering
 - 💞️ I’m looking to collaborate on solving interesting data science problems and creating awesome visualizations!! 
